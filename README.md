@@ -1,5 +1,5 @@
 # Hana Shop
-#### This is project about Management Shop: product, order management with admin, add to cart, buy product, order products with users, login . Using:
+#### This is project about Management Shop: product, order management, add to cart, buy product, order products, login. Using:
 - Java Jsp Servlet
 - Order with Paypal
 - Login with Google
