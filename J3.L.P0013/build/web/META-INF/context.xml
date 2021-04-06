@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context crossContext="true" path="/J3.L.P0013">
+<Resource name="DBConnection" auth="Container"
+            type="javax.sql.DataSource" username="sa" password="18082000"
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" url="jdbc:sqlserver://localhost:1433;databaseName=Hana_Shop"
+            maxActive="100" maxIdle="30" maxWait="10000"/>
+</Context>
